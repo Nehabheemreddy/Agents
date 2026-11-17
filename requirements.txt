@@ -19,4 +19,4 @@ python-dotenv>=1.0.0
 
 # logging and debugging
 rich
-
+streamlit
